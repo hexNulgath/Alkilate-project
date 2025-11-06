@@ -23,6 +23,7 @@
      - 7.3.3 [Payment Endpoints](#payment-endpoints)
    - 7.4 [Error Handling](#error-handling)
    - 7.5 [Product Suggestions API](#product-suggestions-api)
+8. [Contact](#contact)
 
 
 Alkilate is a modern mobile application that connects people who want to rent out their items with those who need them temporarily. Built with Flutter and Firebase, this platform enables users to list products, manage availability with a calendar system, and process rental orders seamlessly.
@@ -311,3 +312,8 @@ This endpoint returns product suggestions based on a query.
 - sentence-transformers
 - requests
 - numpy
+
+## Contact
+
+- **Email**: [machadoignacio@hotmail.com](mailto:machadoignacio@hotmail.com)
+- **LinkedIn**: [Ignacio Machado](https://www.linkedin.com/in/ignacio-machado-938a30301/)
